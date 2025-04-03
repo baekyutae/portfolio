@@ -1,0 +1,7 @@
+key.env
+venv
+node_modules
+process.env
+beecareful.pem
+__pycache__/
+*.pyc
