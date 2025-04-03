@@ -1,0 +1,159 @@
+.servicebody{
+    width: 80%;
+    margin: 0 auto;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.headbody{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    align-items: center;
+}
+
+.body_title{
+    color: #000;
+    font-family: Roboto;
+    font-size: 3.125rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.body_button_container{
+    display: flex;
+    gap: 10px;
+}
+
+.body_button{
+    background-color: #ffcb62;
+    border: none;
+    padding: 10px;
+    font-size: 1.3rem;
+    font-weight: 500;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.body_button:hover {
+    background-color: #ffcb62; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    transform: scale(1.05); 
+}
+
+.mainbody{
+    display: flex;
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+    
+}
+
+.leftbody{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    box-sizing: border-box;
+}
+
+.body_text{
+    color: #000;
+    font-family: Roboto;
+    font-size: 1.3rem;
+    font-style: normal;
+    font-weight:normal;
+    line-height: normal;
+}
+
+.body_foot{
+    color: #000;
+    font-family: Roboto;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight:lighter;
+    line-height: normal;
+    
+}
+
+.rightbody{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+    background-color: #fffff3;
+}
+
+.body_img{
+    max-width: 550px;
+    height: auto;
+    transition: transform 0.3s ease;
+    border-radius: 0; 
+    padding: 10px 0; 
+}
+
+.body_img:hover {
+    transform: scale(1.05);
+}
+
+@media (max-width:1000px){
+    .servicebody {
+        width: 90%;
+        height: auto; 
+        position: relative;
+    }
+
+    .headbody {
+        padding-top: 30px; 
+        flex-direction: column; 
+        align-items: flex-start; 
+        gap: 20px;
+    }
+
+    .body_button_container{
+        position: absolute;
+        right: 0%;
+        top: 5%;
+    }
+    .body_title {
+        font-size: 2rem;
+    }
+
+    .body_button {
+        padding: 8px; 
+        font-size: 1rem; 
+    }
+
+    .mainbody {
+        flex-direction: column; 
+        gap: 20px;
+    }
+
+    .leftbody {
+        gap: 15px; 
+    }
+
+    .body_text {
+        font-size: 1rem; 
+    }
+
+    .body_foot {
+        font-size: 0.875rem;
+    }
+
+    .rightbody {
+        max-width: 100%;
+    }
+
+    .body_img {
+        max-width: 100%; 
+        height: auto;
+        border-radius: 5px; 
+    }
+}
