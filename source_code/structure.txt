@@ -1,0 +1,291 @@
+Windows10 볼륨에 대한 폴더 경로의 목록입니다.
+볼륨 일련 번호는 C268-FB13입니다.
+C:.
+│  structure.txt
+│  
+├─final-project
+│  │  .gitattributes
+│  │  package-lock.json
+│  │  package.json
+│  │  
+│  ├─.vscode
+│  │      settings.json
+│  │      
+│  ├─backend
+│  │  │  app_camera.py
+│  │  │  camera_test.py
+│  │  │  test.ipynb
+│  │  │  백엔드 구조도.txt
+│  │  │  작동하는 카메라 번호 확인.ipynb
+│  │  │  
+│  │  ├─.ipynb_checkpoints
+│  │  │      app-checkpoint.py
+│  │  │      app_camera-checkpoint.py
+│  │  │      camera_test-checkpoint.py
+│  │  │      python camera_test-checkpoint.py
+│  │  │      백엔드 구조도-checkpoint.txt
+│  │  │      작동하는 카메라 번호 확인-checkpoint.ipynb
+│  │  │      
+│  │  ├─flask_session
+│  │  │      134048965e33925caaaf3399f611ba80
+│  │  │      169c16c438edcfd0183d26f7f1a0db62
+│  │  │      1a237a7876db735c6a4c728a4af07940
+│  │  │      2029240f6d1128be89ddc32729463129
+│  │  │      2c0eeda1c48ea11bd60b4a1fb7921db1
+│  │  │      2e2564a776ed39ee2b130b7c16862ac4
+│  │  │      46313b2ac92c672f7af62b1824e11e78
+│  │  │      8278e175d84a2fc7afef633d6fb9e0f9
+│  │  │      d4bb7e227151ea11e496c4c50375db07
+│  │  │      d645899bca1cd32ce08f0791f9c62d52
+│  │  │      db785c0aaa0a9c79f27da477f38b6f5b
+│  │  │      f8957088cb06e670323b26c161d7f847
+│  │  │      
+│  │  ├─main_server
+│  │  │  │  app.py
+│  │  │  │  bee_image_model.keras
+│  │  │  │  key.env
+│  │  │  │  qa_model.py
+│  │  │  │  꿀벌질병.pdf
+│  │  │  │  
+│  │  │  ├─.ipynb_checkpoints
+│  │  │  │      app-checkpoint.py
+│  │  │  │      qa_model-checkpoint.py
+│  │  │  │      
+│  │  │  ├─flask_session
+│  │  │  │      100f5448fefd69137ad6443e86d97d72
+│  │  │  │      2029240f6d1128be89ddc32729463129
+│  │  │  │      2a56426883a5f911a25332eeee411ad0
+│  │  │  │      d49a003b4d4eca7eca7d9f8a35546b36
+│  │  │  │      e89abf67615442aea20d9814d683bb25
+│  │  │  │      
+│  │  │  ├─models
+│  │  │  │  │  comments.py
+│  │  │  │  │  posts.py
+│  │  │  │  │  user.py
+│  │  │  │  │  __init__.py
+│  │  │  │  │  
+│  │  │  │  ├─.ipynb_checkpoints
+│  │  │  │  │      comments-checkpoint.py
+│  │  │  │  │      posts-checkpoint.py
+│  │  │  │  │      user-checkpoint.py
+│  │  │  │  │      __init__-checkpoint.py
+│  │  │  │  │      
+│  │  │  │  └─__pycache__
+│  │  │  │          comments.cpython-312.pyc
+│  │  │  │          posts.cpython-312.pyc
+│  │  │  │          user.cpython-312.pyc
+│  │  │  │          __init__.cpython-312.pyc
+│  │  │  │          
+│  │  │  ├─routes
+│  │  │  │  │  auth.py
+│  │  │  │  │  comments.py
+│  │  │  │  │  cors.py
+│  │  │  │  │  posts.py
+│  │  │  │  │  predict.py
+│  │  │  │  │  qa.py
+│  │  │  │  │  __init__.py
+│  │  │  │  │  
+│  │  │  │  ├─.ipynb_checkpoints
+│  │  │  │  │      auth-checkpoint.py
+│  │  │  │  │      comments-checkpoint.py
+│  │  │  │  │      cors-checkpoint.py
+│  │  │  │  │      posts-checkpoint.py
+│  │  │  │  │      predict-checkpoint.py
+│  │  │  │  │      qa-checkpoint.py
+│  │  │  │  │      webcam_predict-checkpoint.py
+│  │  │  │  │      __init__-checkpoint.py
+│  │  │  │  │      
+│  │  │  │  └─__pycache__
+│  │  │  │          auth.cpython-312.pyc
+│  │  │  │          comments.cpython-312.pyc
+│  │  │  │          cors.cpython-312.pyc
+│  │  │  │          posts.cpython-312.pyc
+│  │  │  │          predict.cpython-312.pyc
+│  │  │  │          qa.cpython-312.pyc
+│  │  │  │          webcam_predict.cpython-312.pyc
+│  │  │  │          __init__.cpython-312.pyc
+│  │  │  │          
+│  │  │  ├─utils
+│  │  │  │  │  __init__.py
+│  │  │  │  │  
+│  │  │  │  ├─.ipynb_checkpoints
+│  │  │  │  │      webcam_processing-checkpoint.py
+│  │  │  │  │      __init__-checkpoint.py
+│  │  │  │  │      
+│  │  │  │  └─__pycache__
+│  │  │  │          image_processing.cpython-312.pyc
+│  │  │  │          webcam_client.cpython-312.pyc
+│  │  │  │          webcam_processing.cpython-312.pyc
+│  │  │  │          __init__.cpython-312.pyc
+│  │  │  │          
+│  │  │  └─__pycache__
+│  │  │          qa_model.cpython-312.pyc
+│  │  │          
+│  │  ├─migrations
+│  │  │  │  alembic.ini
+│  │  │  │  env.py
+│  │  │  │  README
+│  │  │  │  script.py.mako
+│  │  │  │  
+│  │  │  └─.ipynb_checkpoints
+│  │  │          env-checkpoint.py
+│  │  │          
+│  │  ├─uploads
+│  │  │      3F9A3308.JPG
+│  │  │      beelogo.jpeg
+│  │  │      bird.png
+│  │  │      deformed-wing-virus_tennessee-300x197.jpg
+│  │  │      IMG_6740.jpg
+│  │  │      logo.png
+│  │  │      간트차트.png
+│  │  │      스크린샷 2024-11-15 191748.png
+│  │  │      
+│  │  ├─webcam_sms_server
+│  │  │  │  bee_image_model.keras
+│  │  │  │  bee_main.pt
+│  │  │  │  sms_error.log
+│  │  │  │  sms_server.py
+│  │  │  │  web_cam.py
+│  │  │  │  
+│  │  │  ├─.ipynb_checkpoints
+│  │  │  ├─yolo_output
+│  │  │  │  └─.ipynb_checkpoints
+│  │  │  └─__pycache__
+│  │  │          webcam_predict.cpython-312.pyc
+│  │  │          webcam_processing.cpython-312.pyc
+│  │  │          
+│  │  └─__pycache__
+│  │          qa_model.cpython-311.pyc
+│  │          qa_model.cpython-312.pyc
+│  │          
+│  ├─frontend
+│  │  │  .gitignore
+│  │  │  netlify.toml
+│  │  │  package-lock.json
+│  │  │  package.json
+│  │  │  README.md
+│  │  │  
+│  │  ├─public
+│  │  │      academy.jpg
+│  │  │      association.JPG
+│  │  │      association1.jpg
+│  │  │      avatar1.png
+│  │  │      avatar2.png
+│  │  │      avatar3.png
+│  │  │      avatar4.png
+│  │  │      avatar5.png
+│  │  │      beechat.png
+│  │  │      beechatlogo.png
+│  │  │      beekeeper.jpg
+│  │  │      beekeeper1.jpg
+│  │  │      beelogo2.png
+│  │  │      chatbot1.png
+│  │  │      chatbot2.png
+│  │  │      compare.png
+│  │  │      donga.jpg
+│  │  │      efficient.png
+│  │  │      efficientnet.png
+│  │  │      emoge.png
+│  │  │      ic.jpg
+│  │  │      index.html
+│  │  │      manifest.json
+│  │  │      result2.jpg
+│  │  │      result_bee.jpg
+│  │  │      robots.txt
+│  │  │      servicelogo.png
+│  │  │      servicelogo1.png
+│  │  │      support1.png
+│  │  │      support2.png
+│  │  │      support3.png
+│  │  │      support4.png
+│  │  │      support5.png
+│  │  │      support_icon.png
+│  │  │      vgg16.png
+│  │  │      video.png
+│  │  │      video2.jpg
+│  │  │      _redirects
+│  │  │      
+│  │  └─src
+│  │      │  App.js
+│  │      │  App.test.js
+│  │      │  index.js
+│  │      │  reportWebVitals.js
+│  │      │  
+│  │      └─components
+│  │          │  Card.js
+│  │          │  chatbot.js
+│  │          │  Header.js
+│  │          │  imagemodel.js
+│  │          │  Log.js
+│  │          │  Reg.js
+│  │          │  Screen.js
+│  │          │  Servicebody.js
+│  │          │  
+│  │          ├─account
+│  │          │      Myaccount.js
+│  │          │      
+│  │          ├─community
+│  │          │      BoardList.js
+│  │          │      Comment.js
+│  │          │      NavBar.js
+│  │          │      Postdetail.js
+│  │          │      WritePost.js
+│  │          │      
+│  │          ├─disease
+│  │          │      Imagedisease.js
+│  │          │      Videodisease.js
+│  │          │      
+│  │          ├─homepage
+│  │          │      Homepage.js
+│  │          │      
+│  │          ├─service
+│  │          │      Servicepage.js
+│  │          │      
+│  │          ├─style
+│  │          │      BoardList.module.css
+│  │          │      Card.module.css
+│  │          │      Chatbot.module.css
+│  │          │      comment.module.css
+│  │          │      Header.module.css
+│  │          │      Homepage.module.css
+│  │          │      Imagedisease.module.css
+│  │          │      Log.css
+│  │          │      Myaccount.module.css
+│  │          │      PostTable.module.css
+│  │          │      Reg.module.css
+│  │          │      Screen.module.css
+│  │          │      Service.module.css
+│  │          │      Servicebody.module.css
+│  │          │      Support.module.css
+│  │          │      Support_inpage.module.css
+│  │          │      Support_partner.module.css
+│  │          │      Videodisease.module.css
+│  │          │      WritePost.module.css
+│  │          │      
+│  │          └─support
+│  │                  Support.js
+│  │                  Support_card.js
+│  │                  Support_inpage.js
+│  │                  Support_partner.js
+│  │                  
+│  └─__pycache__
+│          app.cpython-312.pyc
+│          qa_model.cpython-312.pyc
+│          test.cpython-312.pyc
+│          
+└─ML
+    │  cnn(efficient).ipynb
+    │  cnn(vgg16).ipynb
+    │  yolo_bee.ipynb
+    │  
+    ├─.ipynb_checkpoints
+    │      cnn(efficient)-checkpoint.ipynb
+    │      cnn(vgg16)-checkpoint.ipynb
+    │      
+    └─머신러닝 모델
+        ├─yolo모델
+        │      bee_main.pt
+        │      
+        └─질병 분류 cnn
+                bee_image_model.keras
+                
