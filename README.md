@@ -6,42 +6,36 @@
 
 ### 🖼️ 프로젝트 핵심 기능 시연 (Live Demo)
 
-[실시간 영상 감지 데모 GIF를 여기에 삽입하세요.]
-
-![Live Detection Demo]([여기에_실시간_영상_감지_GIF_링크_삽입])
+![Project Demo GIF](https://raw.githubusercontent.com/baekyutae/portfolio/main/port_image/%EB%8D%B0%EB%AA%A8%EC%98%81%EC%83%81.gif?raw=true)
 
 <br>
 
-### 🖥️ 서비스 주요 화면 및 아키텍처 (Screenshots & Architecture)
+### 🖥️ 서비스 주요 화면 (Service Screenshots)
 
 <table>
   <tr>
-    <td align="center"><b>메인 페이지</b></td>
-    <td align="center"><b>주요 서비스 소개</b></td>
+    <td align="center" width="50%"><b>메인 페이지</b></td>
+    <td align="center" width="50%"><b>주요 서비스 소개</b></td>
   </tr>
   <tr>
-    <td width="50%">
-      ![메인페이지](https://github.com/user-attachments/assets/d416f421-f8ab-44d3-a2bd-90a835a5453b)
-    </td>
-    <td width="50%">
-      <img src="[여기에_주요서비스도식화_이미지_링크_삽입]" alt="Key Services">
-    </td>
+    <td><img src="https://raw.githubusercontent.com/baekyutae/portfolio/main/port_image/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.jpg?raw=true" alt="메인 페이지" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/baekyutae/portfolio/main/port_image/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EB%AA%85%EC%84%B8.jpg?raw=true" alt="주요 서비스 소개" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><b>실시간 영상 감시 및 SMS 경보</b></td>
+    <td align="center"><b>실시간 영상 감시</b></td>
     <td align="center"><b>커뮤니티 게시판</b></td>
   </tr>
   <tr>
-    <td>
-      <img src="[여기에_서비스구현도식화_이미지_링크_삽입]" alt="Service Architecture">
-      <br>
-      <img src="[여기에_SMS수신화면_이미지_링크_삽입]" alt="SMS Alert">
-    </td>
-    <td>
-      <img src="[여기에_커뮤니티게시판_이미지_링크_삽입]" alt="Community Board">
-    </td>
+    <td><img src="https://github.com/baekyutae/portfolio/blob/main/port_image/%EC%98%81%EC%83%81%EA%B0%90%EC%8B%9C%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true" alt="실시간 영상 감시" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/baekyutae/portfolio/main/port_image/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0.png?raw=true" alt="커뮤니티 게시판" width="100%"></td>
   </tr>
 </table>
+
+<br>
+
+### ⚙️ 서비스 구현 흐름 (Service Implementation Flow)
+
+![서비스 구현 흐름](https://raw.githubusercontent.com/baekyutae/portfolio/main/port_image/%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B5%AC%ED%98%84%20%ED%9D%90%EB%A6%84.jpg?raw=true)
 
 <br>
 
@@ -61,7 +55,7 @@
 *   **백엔드 API 개발 및 시스템 통합:**
     *   **핵심 API 서버 개발:** 사용자 인증, 영상 스트리밍 API(`multipart/x-mixed-replace` 방식) 등 **제가 직접 담당한 서버들의 모든 API를 개발**했습니다.
     *   **신뢰도 높은 경보 시스템 구현:** 단발적인 오탐(False Positive)을 방지하고자, 일정 횟수 이상 질병이 누적될 경우에만 **Twilio API**로 SMS 경보를 발송하는 **임계값 기반의 API 로직**을 구현했습니다.
-    *   **시스템 통합 총괄:** **팀원이 개발한 RAG 챗봇 모듈**을 포함한 3개의 독립 서버를 성공적으로 통합하고, 프론트엔드와의 연동을 총괄 지휘했습니다.
+    *   **시스템 통합 담당:** **팀원이 개발한 RAG 챗봇 모듈**을 포함한 3개의 독립 서버를 성공적으로 통합하고, 프론트엔드와의 연동을 담당했습니다.
 
  <br>
 
