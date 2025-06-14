@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/baekyutae/portfolio/main/port_image/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.jpg?raw=true" alt="Main Page" width="100%"></td>
-    <td><img src="https://raw.githubusercontent.com/baekyutae/portfolio/main/port_image/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EB%AA%85%EC%84%B8.jpg?raw=true" alt="Key Services" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/baekyutae/portfolio/main/port_image/sertvice_dis.jpg?raw=true" alt="Key Services" width="100%"></td>
   </tr>
   <tr>
     <td align="center"><b>リアルタイム映像監視</b></td>
@@ -37,7 +37,7 @@
 
 ### ⚙️ サービス実装フロー (Service Implementation Flow)
 
-![Service Implementation Flow](https://raw.githubusercontent.com/baekyutae/portfolio/main/port_image/%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B5%AC%ED%98%84%20%ED%9D%90%EB%A6%84.jpg?raw=true)
+![Service Implementation Flow](https://raw.githubusercontent.com/baekyutae/portfolio/main/port_image/service_flow.jpg?raw=true)
 
 <br>
 
@@ -162,7 +162,7 @@ This is the final project conducted as part of the 'SW-Oriented University Proje
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/baekyutae/portfolio/main/port_image/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.jpg?raw=true" alt="Main Page" width="100%"></td>
-    <td><img src="https://raw.githubusercontent.com/baekyutae/portfolio/main/port_image/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EB%AA%85%EC%84%B8.jpg?raw=true" alt="Key Services" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/baekyutae/portfolio/main/port_image/sertvice_dis.jpg?raw=true" alt="Key Services" width="100%"></td>
   </tr>
   <tr>
     <td align="center"><b>Live Video Monitoring</b></td>
@@ -178,7 +178,7 @@ This is the final project conducted as part of the 'SW-Oriented University Proje
 
 ### ⚙️ Service Implementation Flow
 
-![Service Implementation Flow](https://raw.githubusercontent.com/baekyutae/portfolio/main/port_image/%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B5%AC%ED%98%84%20%ED%9D%90%EB%A6%84.jpg?raw=true)
+![Service Implementation Flow](https://raw.githubusercontent.com/baekyutae/portfolio/main/port_image/service_flow.jpg?raw=true)
 
 <br>
 
