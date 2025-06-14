@@ -1,6 +1,47 @@
-# AI 기반 꿀벌 질병 관리 및 실시간 경보 시스템
+# AI 기반 꿀벌 질병 관리 및 실시간 경보 시스템 "BEE CAREFUL" 
 
 과학기술정보통신부 산하 IITP(정보통신기획평가원)가 주관하는 'SW중심대학사업'의 일환으로 수행한 최종 프로젝트입니다. 전문 지식이 부족한 신규 양봉업자들의 어려움을 해결하고자, **AI를 통해 꿀벌의 질병을 탐지·진단하고, 실시간으로 위험을 경고하며, RAG 챗봇으로 지식을 공유하는 종합 플랫폼**을 기획하고 개발했습니다.
+
+<br>
+
+### 🖼️ 프로젝트 핵심 기능 시연 (Live Demo)
+
+[실시간 영상 감지 데모 GIF를 여기에 삽입하세요.]
+
+![Live Detection Demo]([여기에_실시간_영상_감지_GIF_링크_삽입])
+
+<br>
+
+### 🖥️ 서비스 주요 화면 및 아키텍처 (Screenshots & Architecture)
+
+<table>
+  <tr>
+    <td align="center"><b>메인 페이지</b></td>
+    <td align="center"><b>주요 서비스 소개</b></td>
+  </tr>
+  <tr>
+    <td width="50%">
+      ![메인 페이지](https://github.com/user-attachments/assets/46245e9f-0eab-4e52-8845-c89a1b9dd067)
+    </td>
+    <td width="50%">
+      <img src="[여기에_주요서비스도식화_이미지_링크_삽입]" alt="Key Services">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>실시간 영상 감시 및 SMS 경보</b></td>
+    <td align="center"><b>커뮤니티 게시판</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="[여기에_서비스구현도식화_이미지_링크_삽입]" alt="Service Architecture">
+      <br>
+      <img src="[여기에_SMS수신화면_이미지_링크_삽입]" alt="SMS Alert">
+    </td>
+    <td>
+      <img src="[여기에_커뮤니티게시판_이미지_링크_삽입]" alt="Community Board">
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -51,19 +92,6 @@
 +-------------------------+
 
 ```
-
-
-
-
-
-
-<br>
-
-### 🖼️ 프로젝트 실행 화면 (Project Demo)
-
-[프로젝트 실행 영상을 녹화하여 GIF 파일로 만들어 아래 이미지를 교체하세요.]
-
-![Project Demo GIF](https://user-images.githubusercontent.com/86633049/143794486-938a1a32-a279-491c-b883-a1288c52d477.gif)
 
 <br>
 
