@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td width="50%">
-      ![메인 페이지](https://github.com/user-attachments/assets/46245e9f-0eab-4e52-8845-c89a1b9dd067)
+      ![메인페이지](https://github.com/user-attachments/assets/d416f421-f8ab-44d3-a2bd-90a835a5453b)
     </td>
     <td width="50%">
       <img src="[여기에_주요서비스도식화_이미지_링크_삽입]" alt="Key Services">
